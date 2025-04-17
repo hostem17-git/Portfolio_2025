@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+.special-font-Gothic {
+  font-family: 'Special Gothic Condensed One', sans-serif;
+}
+
+.markazi-text-400 {
+  font-family: "Markazi Text", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.markazi-text-500 {
+  font-family: "Markazi Text", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.markazi-text-600 {
+  font-family: "Markazi Text", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.markazi-text-700 {
+  font-family: "Markazi Text", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
